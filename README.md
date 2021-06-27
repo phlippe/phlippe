@@ -8,7 +8,7 @@ A short guide of my main repositories:
 
 ### Research
 
-- __[CategoricalNF](https://github.com/phlippe/CategoricalNF)__ (📚[Categorical Normalizing Flows via Continuous Transformations](https://arxiv.org/abs/2006.09790) - ICLR 2021): We explore the application of normalizing flows on categorical data and propose a permutation-invariant generative model on graphs, called GraphCNF. On molecule generation, GraphCNF outperforms both one-shot and autoregressive flow-based state-of-the-art of its time.
-- __[meme_challenge](https://github.com/Nithin-Holla/meme_challenge)__ (📚[A Multimodal Framework for the Detection of Hateful Memes](https://arxiv.org/abs/2012.12871) - NeurIPS 2020 competition track): UNITER-based architecture for detecting hateful, multi-modal content. Won 4th place of the Hateful Memes Challenge by Facebook.
+- __[CategoricalNF](https://github.com/phlippe/CategoricalNF)__ (📚[Categorical Normalizing Flows via Continuous Transformations](https://arxiv.org/abs/2006.09790) - *ICLR 2021*): We explore the application of normalizing flows on categorical data and propose a permutation-invariant generative model on graphs, called GraphCNF. On molecule generation, GraphCNF outperforms both one-shot and autoregressive flow-based state-of-the-art of its time.
+- __[meme_challenge](https://github.com/Nithin-Holla/meme_challenge)__ (📚[A Multimodal Framework for the Detection of Hateful Memes](https://arxiv.org/abs/2012.12871) - *NeurIPS 2020 competition track*): UNITER-based architecture for detecting hateful, multi-modal content. Won 4th place of the Hateful Memes Challenge by Facebook.
 - __[P2_Net](https://github.com/phlippe/P2_Net)__ (📚[Diversifying Task-Oriented Dialogue Response Generation with Prototype Guided Paraphrasing
-](https://arxiv.org/abs/2008.03391) - preprint 2020): We develop a synergy of template- and corpus-based dialogue systems for increased diversity and natural conversations.
+](https://arxiv.org/abs/2008.03391) - *preprint 2020*): We develop a synergy of template- and corpus-based dialogue systems for increased diversity and natural conversations.
