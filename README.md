@@ -4,7 +4,7 @@ A short guide of my main repositories:
 ### Teaching/Education
 
 - __[uvadlc_notebooks](https://github.com/phlippe/uvadlc_notebooks)__: Jupyter notebook tutorials for the Deep Learning course at UvA. They cover basic deep learning topics such as initialization and optimization, to more complex topics including Normalizing Flows, Vision Transformers and Meta Learning. All notebooks executed can be viewed on our [RTD website](https://uvadlc-notebooks.readthedocs.io/en/latest/).
-- __[UvA_summaries](https://github.com/phlippe/UvA_Summaries)__: A collection of summaries that I wrote during my Master studies of Artificial Intelligence at the University of Amsterdam (2018-2020). Topics cover courses including Machine Learning and Reinforcement Learning.
+- __[UvA_summaries](https://github.com/phlippe/UvA_Summaries)__: A collection of summaries that I wrote during my Master studies of Artificial Intelligence at the University of Amsterdam (2018-2020). Topics cover courses including Machine Learning, Reinforcement Learning, and many more.
 
 ### Research
 
