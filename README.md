@@ -1,4 +1,4 @@
-__Hi there__ 👋 I’m Phillip, a PhD student in the Qualcomm-UvA lab (QUVA) at the University of Amsterdam supervised by [Efstratios Gavves](https://www.egavves.com/) and [Taco Cohen](https://tacocohen.wordpress.com/). My research focuses on the intersection of causality and machine learning 🤖, but I am also interested in generative modeling 🌀, reinforcement learning 🕹 and natural language processing 💬. Besides that, I like teaching 👨‍🏫.
+__Hi there__ 👋 I’m Phillip, a PhD student in the Qualcomm-UvA lab (QUVA) at the University of Amsterdam supervised by [Efstratios Gavves](https://www.egavves.com/) and [Taco Cohen](https://tacocohen.wordpress.com/). My research focuses on the intersection of causality and machine learning 🤖, but I am also interested in generative modeling 🌀, reinforcement learning 🕹, AI4Science 🧪, and natural language processing 💬. Besides that, I like teaching 👨‍🏫.
 A short guide of my main repositories:
 
 ### Teaching/Education
